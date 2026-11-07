@@ -1,0 +1,60 @@
+{
+  "allocation_commit": "99b60af56bbc21254e3f9250d928dda260c2509d",
+  "artifacts": [
+    {
+      "file_name": "ntoskrnl.exe",
+      "sha256": "91a6a23a6f5f81797969b969c8acae81c88627d2f1577eab4aa7f5786b9fcb6c",
+      "size": 4542464
+    },
+    {
+      "file_name": "ntdll.dll",
+      "sha256": "0705085be12fcc123a75eec8628e77cb72741836163a674cf22a7129e73b8b70",
+      "size": 1236480
+    },
+    {
+      "file_name": "kernel32.dll",
+      "sha256": "8d576c3abccca42924500d7ff25bcb5e9e48a240b3cbf1af7f1114283b1178bf",
+      "size": 2829312
+    },
+    {
+      "file_name": "bootcd.iso",
+      "sha256": "eeacde40d57906981228aefa5b6e7a480b8e39ba71f8cc306f038cc6bcc700ad",
+      "size": 481296384
+    }
+  ],
+  "attempt_id": "fd00a29c-4c9e-46ce-ac94-1da0f5f861a9",
+  "buildlab": "30.ldw_lab.261107-0712",
+  "inputs_digest": "a4f0a5e7198464e70d4a4167e8c2f846cba65e45a6951d82f10c521abeaecec0",
+  "label": "30.1.amd64chk.ldw_lab.261107-0712",
+  "lbi_result_version": 1,
+  "ledger_ref": "refs/lbi/seq/30",
+  "manifest_generated_at": "2026-11-07T18:03:00Z",
+  "manifest_generator": {
+    "name": "lbi-provenance",
+    "ref": "6d94b853566f04fac096b8691d37835acaf32ca3",
+    "schema_ref": "WS-C-PROVENANCE.md#3",
+    "version": "0.2.0"
+  },
+  "manifest_id": "4647b192bf328ddf1679ff6012e76dedc962867b0cacf8ab0cd8fb6ca8a1942f",
+  "manifest_ref": "lbi-provenance-manifest/1.0:attempt:fd00a29c-4c9e-46ce-ac94-1da0f5f861a9",
+  "manifest_schema_id": "lbi-provenance-manifest/1.0",
+  "outcome": {
+    "evidence": "shared/libernt/liberlabs/ryzen-jobs/L29-lbi-wsb/L29-RESULT-lab03.txt",
+    "gates": "A1 A2 C1 C2 C3 C4 C5 D1 D2 D3 D4 PASS",
+    "job": "L29-lbi-wsb rev 3 + addendum D",
+    "lab": "Lab03",
+    "manifest_file": "shared/libernt/liberlabs/ryzen-jobs/L29-lbi-wsb/manifest-out2.json",
+    "status": "PASS"
+  },
+  "recorded_at": "2026-11-07T18:49:38Z",
+  "recorded_by": "dwight-mthckvwx host wrapper (lbi_result.py), owner GO 2026-11-07T18:48:10Z",
+  "revision": 1,
+  "sequence": 30,
+  "source": {
+    "commit": "c9b2590345fbec4ea02b9b3809f4119d50280717",
+    "committer_date": "2026-11-07T04:11:03-03:00",
+    "ref": "refs/heads/leeway/lbi-wsb-generator",
+    "remote": "https://github.com/LeewayOpenSoftware/LiberNT-LDW.git",
+    "tree": "84575a91de26b374bb31044fdd14f4b9f1acadb3"
+  }
+}
