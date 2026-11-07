@@ -1,0 +1,17 @@
+{
+  "arch": "amd64",
+  "attempt_id": "45461c64-c157-4204-8650-10cdc6e5da28",
+  "channel": "ldw_lab",
+  "ci_ref": "",
+  "lbi_version": 1,
+  "manifest_ref": "lbi-provenance-manifest/1.0:attempt:45461c64-c157-4204-8650-10cdc6e5da28",
+  "respin_of": null,
+  "revision": 1,
+  "sequence": 27,
+  "source_commit": "16ceb67863c412f8409b4c513841fb402721b7fc",
+  "source_dirty": false,
+  "stamp": "261107-0702",
+  "timestamp_utc": "2026-11-07T07:02:42Z",
+  "type": "chk",
+  "worker": "host-dwight-for-lab03-2"
+}
