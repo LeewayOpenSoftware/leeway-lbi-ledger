@@ -1,0 +1,17 @@
+{
+  "arch": "amd64",
+  "attempt_id": "ea5c7ff1-b788-4267-89db-79cabe08e7d2",
+  "channel": "ldw_ci",
+  "ci_ref": "43597362738",
+  "lbi_version": 1,
+  "manifest_ref": "lbi-provenance-manifest/1.0:attempt:ea5c7ff1-b788-4267-89db-79cabe08e7d2",
+  "respin_of": null,
+  "revision": 1,
+  "sequence": 329,
+  "source_commit": "a775ebbd70b1562d5dd74b996debca1c048a45b9",
+  "source_dirty": false,
+  "stamp": "261114-1302",
+  "timestamp_utc": "2026-11-14T13:02:23Z",
+  "type": "chk",
+  "worker": "gha-43597362738-1"
+}
